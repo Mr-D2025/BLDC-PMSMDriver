@@ -1,0 +1,2 @@
+## FOC开环控制
+适用于KV930XXD电机，移植到其他电机的时候可以修改float32_t Uq = VOLTAGE_POWER_SUPPLY / 20;初始设置大小
